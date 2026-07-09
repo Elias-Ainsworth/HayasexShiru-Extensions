@@ -1,7 +1,7 @@
 # HayasexShiru Extensions
 
 Community-maintained extensions for **Shiru** and **Hayase**.  
-Includes **Nyaa** and **Sukebei** support.
+Includes **Nyaa** support.
 
 ## GitHub stars License: GPLv3 GitHub issues
 
@@ -10,7 +10,6 @@ Includes **Nyaa** and **Sukebei** support.
 ## Available Sources
 
 - **Nyaa** – Nyaa extensions
-- **Sukebei** – Sukebei extensions
 
 ---
 
@@ -20,18 +19,16 @@ Includes **Nyaa** and **Sukebei** support.
 
 Paste this URL into **Settings → Extensions → Repositories**:
 
-https://raw.githubusercontent.com/ReWelp/HayasexShiru-Extensions/main/hayase/index.json
+https://raw.githubusercontent.com/Elias-Ainsworth/HayasexShiru-Extensions/main/hayase/index.json
 
 
 ### Shiru
 
 Paste this URL into **Settings → Extensions → Sources**:
 
-https://raw.githubusercontent.com/ReWelp/HayasexShiru-Extensions/main/shiru/index.json
+https://raw.githubusercontent.com/Elias-Ainsworth/HayasexShiru-Extensions/main/shiru/index.json
 
-| Alternatively | `gh:ReWelp/HayasexShiru-Extensions/shiru` |
-
-// note: *you must enable Adult Content (Hentai) in settings to be able to use Sukebei on Shiru.*
+| Alternatively | `gh:Elias-Ainsworth/HayasexShiru-Extensions/shiru` |
 
 ---
 
